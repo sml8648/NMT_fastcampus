@@ -1,7 +1,9 @@
 # Simple NMT
 
-'''C
+'''c
 
 #include <stdio.h>
 
-'''
+int main(void){
+  printf('hello, wordl!');
+}
