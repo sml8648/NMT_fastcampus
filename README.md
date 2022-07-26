@@ -23,4 +23,4 @@ Ai hub의 자연어 데이터를 기반으로 데이터셋을 구성함
 ![다운로드](https://user-images.githubusercontent.com/18714388/181017841-f41d0e8e-7428-4ae2-a185-bac44f1017e6.png)
 
 # Transformer
-![transformer_architecture](https://user-images.githubusercontent.com/18714388/181017858-d351fa69-bae3-4893-9e23-3bcfd9dfedfc.jpg)
+![transformer_architecture](https://user-images.githubusercontent.com/18714388/181018008-68022a83-bb3c-4038-bdf7-ae0d0e179b62.jpg)
